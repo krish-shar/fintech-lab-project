@@ -18,14 +18,14 @@
 - Matplotlib: The project uses Matplotlib for generating graphical insights
 - ChromaDB: The project uses ChromaDB to embed the filings
 
---
+---
 ### Examples
 <img width="1015" alt="Screenshot 2024-05-05 at 8 10 41 PM" src="https://github.com/krish-shar/fintech-lab-project/assets/48652554/2c3d8792-eb01-4f8a-9a36-225713f19a32">
 
 <img width="1020" alt="Screenshot 2024-05-05 at 8 11 27 PM" src="https://github.com/krish-shar/fintech-lab-project/assets/48652554/535bc488-9949-4f1f-ba1e-6dd3e294caaa">
 
 
---
+---
 
 ## Live Demo
 [Click here to view the live demo](https://huggingface.co/spaces/krish-shar/fintech-lab-project)
