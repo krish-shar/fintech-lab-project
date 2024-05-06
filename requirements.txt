@@ -1,0 +1,10 @@
+sec-edgar-downloader
+beautifulsoup4
+tiktoken
+chromadb
+openai
+langchain
+langchain-openai
+python-dotenv
+matplotlib
+gradio
